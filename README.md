@@ -76,6 +76,6 @@ $mensagem = strip_tags($_POST['mensagem']);
 Retorna uma string contendo os elementos da matriz na mesma ordem com uma ligação ( vírgula no caso ) entre cada elemento.
 
 <div align="center">
- <img alt="form" height="540" width="1000" src="https://i.imgur.com/6el4Aeu.gif">
- <img alt="form" height="540" width="1000" src="https://i.imgur.com/Ur2uOPB.gif">
+ <img alt="form" height="490" width="1000" src="https://i.imgur.com/6el4Aeu.gif">
+ <img alt="form" height="490" width="1000" src="https://i.imgur.com/Ur2uOPB.gif">
 </div>
