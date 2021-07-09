@@ -20,7 +20,7 @@
 
 <body class="bg-green-50">
 
-    <div class="min-h-screen flex items-center justify-center m-12">
+    <div class="min-h-screen flex items-center justify-center m-6">
 
         <div class="grid grid-cols-5 shadow-2xl">
 
@@ -105,8 +105,8 @@
                         </label>
 
 
-                        <div class="grid justify-items-end">
-                            <button type="submit" class="py-3 px-8 text-white font-bold bg-green-500 rounded-lg"> Me candidatar </button>
+                        <div class="grid justify-items-center sm:justify-items-end pt-12">
+                            <button type="submit" class="py-3 px-6 text-white font-bold uppercase bg-green-500 rounded-lg hover:bg-green-700"> Me candidatar </button>
                         </div>
 
                     </div>
